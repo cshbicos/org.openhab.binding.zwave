@@ -1245,6 +1245,14 @@
         <category>Switch</category>
     </channel-type>
 
+    <!-- Switch Channel -->
+    <channel-type id="switch_binary_load">
+        <item-type>Switch</item-type>
+        <label>Load Switch</label>
+        <description>Switch the physical power on and off</description>
+        <category>Switch</category>
+    </channel-type>
+
     <!-- Switch Start/Stop Channel -->
     <channel-type id="switch_startstop">
         <item-type>StopMoveType</item-type>
